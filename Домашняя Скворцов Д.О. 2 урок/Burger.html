@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <button id="delete">Очистить</button>
+    <form action="#" name="Hamburgers">
+        <p><b>Какой гамбургер Вы будете?</b></p>
+        <p><input name="size" type="radio" value="small" checked> Маленький: 50 рублей, 20 калорий</p>
+        <p><input name="size" type="radio" value="big"> Большой: 100 рублей, 40 калорий</p>
+        <p><b>Добавить начинку?</b></p>
+        <p><input class="stuffing" type="radio" value="cheese"> Добавить Сыр: 10 рублей, 20 калорий</p>
+        <p><input class="stuffing" type="radio" value="salad"> Добавить Салат: 20 рублей, 5 калорий</p>
+        <p><input class="stuffing" type="radio" value="potato">Добавить Картофель: 15 рублей, 10 калорий</p>
+        <p><b>Дополнительно?</b></p>
+        <p><input class="topping" type="radio" value="seasoning"> Посыпать приправой: 15 рублей, 0 калорий</p>
+        <p><input class="topping" type="radio" value="chemayoese"> Полить майонезом: 20 рублей, 5 калорий</p>
+    </form>
+    <button id="start">Рассчитать стоимость</button>
+    <p id="text"> </p>
+    <script src="js/burger.js"></script>
+    <script
+  src="https://code.jquery.com/jquery-3.6.0.js"
+  integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+  crossorigin="anonymous"></script>
+</body>
+
+</html>

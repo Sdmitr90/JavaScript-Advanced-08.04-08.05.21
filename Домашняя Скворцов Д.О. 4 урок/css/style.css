@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    justify-content: center;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;  
+}
+input{
+    margin-top: 10px;
+}
+textarea{
+    margin-top: 10px;
+    width: 229px;
+    height: 100px;
+    resize: none;
+}
+label{
+    margin-top: 10px;
+    text-align: center;
+}

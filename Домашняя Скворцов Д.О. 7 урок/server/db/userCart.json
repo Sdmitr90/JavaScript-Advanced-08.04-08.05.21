@@ -1,0 +1,46 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 0,
+            "id_product": 2,
+            "product_name": "Shirt",
+            "price": 142,
+            "image": "img/products/Product7.png",
+            "imageMob": "img/products/Product7mob.jpg"
+        },
+        {
+            "quantity": 0,
+            "id_product": 1,
+            "product_name": "Jacket",
+            "price": 252,
+            "image": "img/products/Product1.png",
+            "imageMob": "img/products/Product1mob.jpg"
+        },
+        {
+            "quantity": 0,
+            "id_product": 3,
+            "product_name": "Blouse",
+            "price": 210,
+            "image": "img/products/Product3.png",
+            "imageMob": "img/products/Product3mob.jpg"
+        },
+        {
+            "quantity": 0,
+            "id_product": 5,
+            "product_name": "T-shirt with long sleeves",
+            "price": 140,
+            "image": "img/products/Product8.png",
+            "imageMob": "img/products/Product8mob.jpg"
+        },
+        {
+            "quantity": 0,
+            "id_product": 9,
+            "product_name": "Short-sleeved shirt",
+            "price": 110,
+            "image": "img/products/Product12.png",
+            "imageMob": "img/products/Product12mob.jpg"
+        }
+    ]
+}
